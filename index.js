@@ -22,6 +22,4 @@ app.listen(5000, () => {
   console.log("port listening on port 5000");
 });
 
-// connection string :  mongodb+srv://codernot13:<password>@react-blog.uvirfv8.mongodb.net/?retryWrites=true&w=majority
-// username codernot13
-// pass YNWzf622K09015Ii
+// test
